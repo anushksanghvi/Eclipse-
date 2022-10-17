@@ -20,6 +20,8 @@ public class MainCalculator {
 		int C = Cal.multiplication(num1, num2);
 		System.out.println("Multiplication is = " + C);
 		
+		int D = Cal.division(num1, num2);
+		System.out.println("Division is = " + D);
 		
 
 	}
