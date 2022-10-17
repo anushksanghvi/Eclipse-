@@ -17,6 +17,9 @@ public class MainCalculator {
 		int B = Cal.subtraction(num1, num2);
 		System.out.println("Difference is = " + B);
 		
+		int C = Cal.multiplication(num1, num2);
+		System.out.println("Multiplication is = " + C);
+		
 		
 
 	}
