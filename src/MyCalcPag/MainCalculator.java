@@ -14,8 +14,10 @@ public class MainCalculator {
 		int A = Cal.addition(num1, num2);
 		System.out.println("Sum is = " + A);
 		
+		int B = Cal.subtraction(num1, num2);
+		System.out.println("Difference is = " + B);
+		
 		
 
 	}
-
 }
